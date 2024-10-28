@@ -1,7 +1,7 @@
 # Image-processing
 This project provides an image processing approach to determine the void fraction distribution in fluidized beds. 
 
-The main steps are the following:
+The images are in the data folder. The main steps are the following:
 
 - Select a rectangle where the bed is in the Fixed image. The inensity of this subimage is the void fraction of the packed or fixed bed.
 - Select a rectangle where the freeboard is in the Fixed image (bright area). The inensity of this subimage is the maximum void fraction when only gas and no particles are present.
