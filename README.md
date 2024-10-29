@@ -1,5 +1,5 @@
 # Image-processing
-This project provides an image processing approach to determine the void fraction distribution in fluidized beds. 
+This project provides an image processing approach to determine the void fraction distribution in fluidized beds from X-ray images. 
 
 The images are in the data folder. The main steps are the following:
 
